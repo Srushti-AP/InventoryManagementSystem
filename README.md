@@ -1,4 +1,4 @@
-# InventoryManagementSystem
+# Enhanced Inventory Management System with LinkedLIST
 Overview:--
 
 -->Developed an interactive Inventory Management System in Java that efficiently handles product additions, deletions, and updates using a linked list data structure.
